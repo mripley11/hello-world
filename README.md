@@ -1,2 +1,3 @@
 # hello-world
 First repository
+I don't really know how to write code...
